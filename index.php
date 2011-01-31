@@ -2,8 +2,8 @@
   <head>
     <title>Test jQuery.flow.js</title>
     <script type="text/javascript" src="jquery.min.js"></script>
-    <script type="text/javascript" src="jquery.timers-1.2.js"></script>
-    <script type="text/javascript" src="jquery.flow.js"></script>
+    <script type="text/javascript" src="jquery.timers-1.2.min.js"></script>
+    <script type="text/javascript" src="jquery.flow.min.js"></script>
   </head>
   <body>
     <div id="main">
